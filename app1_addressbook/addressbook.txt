@@ -1,0 +1,19 @@
+address	city	state	zipcode	alias	memo	tag1	tag2	tag3	tag4	tag5
+270 Center 15740 Shady Grove R	Gaithersburg	MD	20877	Home Depot	Home Depot near Gaithersburg	shopping				
+Washingtonian Center 9811 Washingtonian Blvd	Gaithersburg	MD	20878	Sport&Health Club: Rio	gym near Gaithersburg					
+Copley Pl	Gaithersburg	MD	20878	Harris Teeter	Harris Teeter near Gaithersburg	grocery				
+307 Copley Pl	Gaithersburg	MD	20878	Starbucks	Starbucks near Gaithersburg					
+880 Russell Ave	Gaithersburg	MD	20879	Costco	Costco near Gaithersburg	shopping				
+6 Montgomery Village Ave	Gaithersburg	MD	20879	Citibank	Citibank branch and ATM near Gaithersburg	bank				
+701 Russell Ave	Gaithersburg	MD	20877	Shopping Center	Shopping Center near Gaithersburg. Macy, AT&T	shopping				
+18270 Contour Rd	Gaithersburg	MD	20877	Trade Joe's	Trade Joe's near Gaithersburg	grocery				
+270 Center 15750 Shady Grove R	Gaithersburg	MD	20877	Best Buy	Best Buy near Gaithersburg	shopping				
+660 Quince Orchard Rd	Gaithersburg	MD	20878	Staples	Staples near Gaithersburg	shopping				
+"15903 Somerville Dr
+Rockville"	Rockville	MD	20855	Shady Grove Metro Station	zipcar rental 39.119412, -77.165402	metro				
+16520 S Westland Dr	Gaithersburg	MD	20877	MVA	MD DMV near Gaithersburg, part of service	gov				
+16515 S Frederick Ave	Gaithersburg	MD	20877	New Fortune	Cantonese restaurant, 港式早茶	restaurant	chinese			
+15 Metropolitan Grove Rd	Gaithersburg	MD	20878	MVA	MD DMV near Gaithersburg, full service	gov				
+576 N Frederick Ave	Gaithersburg	MD	20877	Yu Zhou café	Very classic chinese restaurant, 渝州小馆	restaurant	chinese			
+785 Rockville Pike suite G	Rockville	MD	20852	Superbowl Noodle House	chinese restaurant, 海碗公	restaurant	chinese			
+838 Rockville Pike	Rockville	MD	20852	East Pearl Restaurant	chinese see food restaurant, 海珍楼	restaurant	chinese			

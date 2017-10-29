@@ -60,7 +60,7 @@ else:
 def insert_test_data():
     writer = ix.writer(procs=multiprocessing.cpu_count(), limitmb=128)
 
-    # exposrt your google bookmark somewhere
+    # export your google bookmark somewhere
     p = "/Users/sanhehu/Documents/bookmarks_10_28_17.html"
 
     with open(p, "rb") as f:
@@ -86,7 +86,7 @@ if not index_exists:  # if not exists, insert data
     print("elapsed %.6f sec. " % (time.clock() - st,))
 
 with ix.searcher() as s:
-    q = "http"
+    q = "http" # put your query here
     query = qparser.MultifieldParser(["url", "name"], schema=url_schema).parse(
         q)
     res = s.search(query)
